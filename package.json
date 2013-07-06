@@ -1,0 +1,11 @@
+{
+  "name": "document-font-toggle",
+  "fullName": "Document Font Toggle",
+  "id": "dft@dietrich.cx",
+  "description": "Toggles the \"Allow pages to choose their own fonts\" setting.",
+  "icon": "data/icon.png",
+  "icon64": "data/icon64.png",
+  "author": "Alexander Dietrich",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
