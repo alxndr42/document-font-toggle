@@ -2,7 +2,7 @@
   "name": "document-font-toggle",
   "fullName": "Document Font Toggle",
   "id": "dft@dietrich.cx",
-  "description": "Toggles the \"Allow pages to choose their own fonts\" setting.",
+  "description": "Switch between website fonts and your own selection.",
   "icon": "data/icon.png",
   "icon64": "data/icon64.png",
   "author": "Alexander Dietrich",
@@ -26,7 +26,7 @@
     {
       "name": "startup_state",
       "title": "Startup State",
-      "description": "Startup state of the \"Allow pages...\" setting",
+      "description": "Start with website fonts enabled or disabled",
       "type": "menulist",
       "value": 0,
       "options": [
